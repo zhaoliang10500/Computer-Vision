@@ -1,22 +1,21 @@
-# ECSE415
-Computer Vision coursework at McGill University
+# Computer Vision coursework at McGill University
 
-## Assignment 1: Image Filtering
+## Image Filtering
 - Thresholding
 - Denoising, Sharpening
 - Edge Detection (Sobel, Laplacian of Gaussian, Canny)
 
-## Assignment 2: Feature Extraction
+## Feature Extraction
 - SIFT feature invariance
 - SIFT feature matching
 - object detection using HoG
 
-## Assignment 3: Segmentation and Motion
+## Segmentation and Motion
 - K-Means and GMM implementations from scratch
 - normalized graph-cut and mean shift segmentation
 - Lucas-Kanade optic flow detection
 
-## Assignment 4: Classifiers
+## Classifiers
 - feature extraction using mean pixel intensities and HoG
 - classification of CIFAR-10 dataset using SVMs, Random Forests, and a Voting classifier
 - experimentation with hyperparameters to optimize performance
